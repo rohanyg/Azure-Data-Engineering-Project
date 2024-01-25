@@ -4,3 +4,6 @@ Azure Data Factory is used for ingesting data stored in the web and on-premise t
 
 
 ![hello](https://github.com/rohanyg/Azure-Data-Engineering-Project/assets/136742005/70ce6122-e6fb-4fb2-8dea-019a0446c50e)
+
+
+Power BI Dashboard Link : https://app.powerbi.com/groups/me/reports/0ee78901-53a8-411d-9192-84c57d308a4f/ReportSection?experience=power-bi
